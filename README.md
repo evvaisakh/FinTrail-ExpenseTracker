@@ -46,7 +46,7 @@ Track your income, expenses, categories, and see summaries in a clean interface.
 
 3. **Run development server**
 
-   npm run dev
+   `npm run dev`
 
 
 
