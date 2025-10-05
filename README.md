@@ -35,15 +35,18 @@ Track your income, expenses, categories, and see summaries in a clean interface.
 ## Setup & Run Locally
 
 1. **Clone the repo**  
+   ```bash
    git clone https://github.com/evvaisakh/FinTrail-ExpenseTracker.git
    cd fin-trail
 
 2. **Install dependencies**
+
    npm install
-   # or
+   ### or
    yarn install
 
 3. **Run development server**
+
    npm run dev
 
 ## Project Structure
