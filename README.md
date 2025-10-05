@@ -51,7 +51,7 @@ Track your income, expenses, categories, and see summaries in a clean interface.
 
 ## Project Structure
 
-   ├── public/               \# Static assets and index.html
+   ├── public/               > Static assets and index.html
 
    ├── src/
 
