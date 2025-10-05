@@ -41,7 +41,10 @@ Track your income, expenses, categories, and see summaries in a clean interface.
 2. **Install dependencies**
    ```bash
    npm install
-   #### or
+
+or
+
+   ```bash
    yarn install
 
 3. **Run development server**
