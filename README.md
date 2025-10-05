@@ -1,6 +1,6 @@
 # FinTrail
 
-[View Live Demo](https://your-live-demo-link.com)
+[View Live Demo](https://fin-trail-expense-tracker.vercel.app/)
 
 A simple / modern budgeting app built with React + Vite.  
 Track your income, expenses, categories, and see summaries in a clean interface.
@@ -51,29 +51,29 @@ Track your income, expenses, categories, and see summaries in a clean interface.
 
 ## Project Structure
 
-   ├── public/               # Static assets and index.html
+   ├── public/               \# Static assets and index.html
 
    ├── src/
 
-   │   ├── components/       # Reusable UI components
+   │   ├── components/       \# Reusable UI components
 
-   │   ├── features/         # Domain-specific modules (budget, transactions)
+   │   ├── features/         \# Domain-specific modules (budget, transactions)
 
-   │   ├── contexts/         # React contexts & providers
+   │   ├── contexts/         \# React contexts & providers
 
-   │   ├── hooks/            # Custom hooks
+   │   ├── hooks/            \# Custom hooks
 
-   │   ├── services/         # API / persistence logic
+   │   ├── services/         \# API / persistence logic
 
-   │   ├── utils/            # Utility functions
+   │   ├── utils/            \# Utility functions
 
-   │   ├── styles/           # Global / theme styles
+   │   ├── styles/           \# Global / theme styles
 
-   │   └── App.jsx           # Root component
+   │   └── App.jsx           \# Root component
 
-   ├── .eslintrc.js          # ESLint config
+   ├── .eslintrc.js          \# ESLint config
 
-   ├── vite.config.js        # Vite config
+   ├── vite.config.js        \# Vite config
 
    ├── package.json  
 
