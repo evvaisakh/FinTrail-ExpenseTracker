@@ -53,18 +53,31 @@ Track your income, expenses, categories, and see summaries in a clean interface.
 
 /
    ├── public/               # Static assets and index.html
+
    ├── src/
+
    │   ├── components/       # Reusable UI components
+
    │   ├── features/         # Domain-specific modules (budget, transactions)
+
    │   ├── contexts/         # React contexts & providers
+
    │   ├── hooks/            # Custom hooks
+
    │   ├── services/         # API / persistence logic
+
    │   ├── utils/            # Utility functions
+
    │   ├── styles/           # Global / theme styles
+
    │   └── App.jsx           # Root component
+
    ├── .eslintrc.js          # ESLint config
+
    ├── vite.config.js        # Vite config
+
    ├── package.json  
+   
    └── README.md
 
 
