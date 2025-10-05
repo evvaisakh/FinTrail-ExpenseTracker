@@ -51,7 +51,6 @@ Track your income, expenses, categories, and see summaries in a clean interface.
 
 ## Project Structure
 
-/
    ├── public/               # Static assets and index.html
 
    ├── src/
@@ -77,7 +76,7 @@ Track your income, expenses, categories, and see summaries in a clean interface.
    ├── vite.config.js        # Vite config
 
    ├── package.json  
-   
+
    └── README.md
 
 
