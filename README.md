@@ -39,7 +39,7 @@ Track your income, expenses, categories, and see summaries in a clean interface.
    cd fin-trail
 
 2. **Install dependencies**
-
+   ```bash
    npm install
    #### or
    yarn install
